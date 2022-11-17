@@ -1,0 +1,219 @@
+{
+  "INTERFACE": "PRODUCT",
+  "TIMESTAMP": "06/2/2022 07:39 AM GMT",
+  "ATTRIB_LIST": [
+    {
+      "OBJECT_ID": "A5508",
+      "FIELD_VALUE_DISPLAY": "Denizen",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoBrand",
+      "FIELD_NAME_DISPLAY": "Brand",
+      "FIELD_VALUE_KEY": "489"
+    },
+    {
+      "OBJECT_ID": "A5508",
+      "FIELD_VALUE_DISPLAY": "Khakis",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoClassPH",
+      "FIELD_NAME_DISPLAY": "Class (Product Hierarchy)",
+      "FIELD_VALUE_KEY": "1033"
+    },
+    {
+      "OBJECT_ID": "A5508",
+      "FIELD_VALUE_DISPLAY": "Boys",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoConsumerProdHier",
+      "FIELD_NAME_DISPLAY": "Consumer (Product Hierarchy)",
+      "FIELD_VALUE_KEY": "0003"
+    },
+    {
+      "OBJECT_ID": "A5508",
+      "FIELD_VALUE_DISPLAY": "Boys 4-20",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoConsumerGrp1",
+      "FIELD_NAME_DISPLAY": "Consumer Group 1",
+      "FIELD_VALUE_KEY": "8517"
+    },
+    {
+      "OBJECT_ID": "A5508",
+      "FIELD_VALUE_DISPLAY": "Slim",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoConsumerGrp2",
+      "FIELD_NAME_DISPLAY": "Consumer Group 2",
+      "FIELD_VALUE_KEY": "8556"
+    },
+    {
+      "OBJECT_ID": "A5508",
+      "FIELD_VALUE_DISPLAY": "Relaxed",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoFitReference",
+      "FIELD_NAME_DISPLAY": "Fit Reference",
+      "FIELD_VALUE_KEY": "815"
+    },
+    {
+      "OBJECT_ID": "A5508",
+      "FIELD_VALUE_DISPLAY": "Button Fly",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoFrontFlyOpening",
+      "FIELD_NAME_DISPLAY": "Front Fly Opening",
+      "FIELD_VALUE_KEY": "500"
+    },
+    {
+      "OBJECT_ID": "A5508",
+      "FIELD_VALUE_DISPLAY": "Male",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoGender",
+      "FIELD_NAME_DISPLAY": "Gender",
+      "FIELD_VALUE_KEY": "663"
+    },
+    {
+      "OBJECT_ID": "A5508",
+      "FIELD_VALUE_DISPLAY": "Super Skinny",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoLegOpening",
+      "FIELD_NAME_DISPLAY": "Leg Opening",
+      "FIELD_VALUE_KEY": "2015"
+    },
+    {
+      "OBJECT_ID": "A5508",
+      "FIELD_VALUE_DISPLAY": "",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoNeckline",
+      "FIELD_NAME_DISPLAY": "Neckline",
+      "FIELD_VALUE_KEY": ""
+    },
+    {
+      "OBJECT_ID": "A5508",
+      "FIELD_VALUE_DISPLAY": "Bottoms",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoProductCategory",
+      "FIELD_NAME_DISPLAY": "Product Category",
+      "FIELD_VALUE_KEY": "674"
+    },
+    {
+      "OBJECT_ID": "A5508",
+      "FIELD_VALUE_DISPLAY": "A5508",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoProductCode",
+      "FIELD_NAME_DISPLAY": "Product Code",
+      "FIELD_VALUE_KEY": "A5508"
+    },
+    {
+      "OBJECT_ID": "A5508",
+      "FIELD_VALUE_DISPLAY": "Denizen MB",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "productName",
+      "FIELD_NAME_DISPLAY": "Product Name",
+      "FIELD_VALUE_KEY": "Denizen MB"
+    },
+    {
+      "OBJECT_ID": "A5508",
+      "FIELD_VALUE_DISPLAY": "Non 5 Pocket Flat Front",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoPrdRptChr",
+      "FIELD_NAME_DISPLAY": "Product Report Characteristics",
+      "FIELD_VALUE_KEY": "209"
+    },
+    {
+      "OBJECT_ID": "A5508",
+      "FIELD_VALUE_DISPLAY": "Long Bottoms",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoProductSubCat1",
+      "FIELD_NAME_DISPLAY": "Product Sub Cat 1",
+      "FIELD_VALUE_KEY": "54"
+    },
+    {
+      "OBJECT_ID": "A5508",
+      "FIELD_VALUE_DISPLAY": "Long Bottoms",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoProductSubCat2",
+      "FIELD_NAME_DISPLAY": "Product Sub Cat 2",
+      "FIELD_VALUE_KEY": "1540"
+    },
+    {
+      "OBJECT_ID": "A5508",
+      "FIELD_VALUE_DISPLAY": "",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoSleeveLen",
+      "FIELD_NAME_DISPLAY": "Sleeve Length",
+      "FIELD_VALUE_KEY": ""
+    },
+    {
+      "OBJECT_ID": "A5508",
+      "FIELD_VALUE_DISPLAY": "Jeans",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoStyleType",
+      "FIELD_NAME_DISPLAY": "Style Type",
+      "FIELD_VALUE_KEY": "02"
+    },
+    {
+      "OBJECT_ID": "A5508",
+      "FIELD_VALUE_DISPLAY": "Casual Khaki",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoSubClassPH",
+      "FIELD_NAME_DISPLAY": "Sub Class (Product Hierarchy)",
+      "FIELD_VALUE_KEY": "2193"
+    },
+    {
+      "OBJECT_ID": "A5508",
+      "FIELD_VALUE_DISPLAY": "Low Crotch",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoWaistRise",
+      "FIELD_NAME_DISPLAY": "Waist/Rise",
+      "FIELD_VALUE_KEY": "1134"
+    },
+    {
+      "OBJECT_ID": "A5508",
+      "FIELD_VALUE_DISPLAY": "Jeans",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoCustomsClassification",
+      "FIELD_NAME_DISPLAY": "Customs Classification",
+      "FIELD_VALUE_KEY": "02"
+    },
+    {
+      "OBJECT_ID": "A5508",
+      "FIELD_VALUE_DISPLAY": "Denizen",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoConcept",
+      "FIELD_NAME_DISPLAY": "Concept",
+      "FIELD_VALUE_KEY": "1213"
+    },
+    {
+      "OBJECT_ID": "A5508",
+      "FIELD_VALUE_DISPLAY": "Denizen Business Unit",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoBusinessUnit",
+      "FIELD_NAME_DISPLAY": "Business Unit",
+      "FIELD_VALUE_KEY": "1214"
+    },
+    {
+      "OBJECT_ID": "A5508",
+      "FIELD_VALUE_DISPLAY": "Capri Length",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoLongBottomLength",
+      "FIELD_NAME_DISPLAY": "Long Bottom Length",
+      "FIELD_VALUE_KEY": "9102"
+    },
+    {
+      "OBJECT_ID": "A5508",
+      "FIELD_VALUE_DISPLAY": "Deco",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoBackPocketTreatment",
+      "FIELD_NAME_DISPLAY": "Back Pocket Treatment",
+      "FIELD_VALUE_KEY": "Deco"
+    },
+    {
+      "OBJECT_ID": "A5508",
+      "FIELD_VALUE_DISPLAY": "No",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoIncudeMerchFabTypeInCWName",
+      "FIELD_NAME_DISPLAY": "Include Merch Fabric Type in CW Name",
+      "FIELD_VALUE_KEY": "no"
+    }
+  ],
+  "FLEXTYPE": "Product\\LSCO\\Denizen\\Male\\Apparel\\Bottoms",
+  "ID": "A5508",
+  "PRODUCTID": "A5508",
+  "TXNID": "5707666",
+  "EVENT": "CREATE"
+}

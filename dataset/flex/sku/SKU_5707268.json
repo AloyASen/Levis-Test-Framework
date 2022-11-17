@@ -1,0 +1,435 @@
+{
+  "INTERFACE": "SKU",
+  "TIMESTAMP": "05/16/2022 12:06 PM GMT",
+  "ATTRIB_LIST": [
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoOrgnlDevSeason",
+      "FIELD_NAME_DISPLAY": "Season First Introduced",
+      "FIELD_VALUE_KEY": ""
+    },
+    {
+      "OBJECT_ID": "1383994401",
+      "FIELD_VALUE_DISPLAY": "D58 - Levi's Girls Bottoms",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoProfitCtrEUR",
+      "FIELD_NAME_DISPLAY": "Profit Center [EUROPE]",
+      "FIELD_VALUE_KEY": "D58 - Levi's Girls Bottoms"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoWovensPatternType",
+      "FIELD_NAME_DISPLAY": "Wovens Pattern Type",
+      "FIELD_VALUE_KEY": ""
+    },
+    {
+      "OBJECT_ID": "216845183",
+      "FIELD_VALUE_DISPLAY": "D58 - LFG Collaboration Shorts",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoProdSegmentEUR",
+      "FIELD_NAME_DISPLAY": "Product Segmentation [LSE]",
+      "FIELD_VALUE_KEY": "D58 - LFG Collaboration Shorts"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "4-Way",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoStretchType",
+      "FIELD_NAME_DISPLAY": "Stretch Type",
+      "FIELD_VALUE_KEY": "lsco4Way"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "Global",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoPDCValue",
+      "FIELD_NAME_DISPLAY": "Product Dev.Center Value",
+      "FIELD_VALUE_KEY": "global"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "Levi's Collaboration",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoProductLine",
+      "FIELD_NAME_DISPLAY": "Product Line",
+      "FIELD_VALUE_KEY": "7602"
+    },
+    {
+      "OBJECT_ID": "216865730",
+      "FIELD_VALUE_DISPLAY": "344 - US Levi's WH Kids Girls Bottoms",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoProfitCtrUS",
+      "FIELD_NAME_DISPLAY": "Profit Center [US]",
+      "FIELD_VALUE_KEY": "344 - US Levi's WH Kids Girls Bottoms"
+    },
+    {
+      "OBJECT_ID": "216853998",
+      "FIELD_VALUE_DISPLAY": "344 - LFK Girls Bottoms",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoProdSegmentUS",
+      "FIELD_NAME_DISPLAY": "Product Segmentation [LSUS]",
+      "FIELD_VALUE_KEY": "344 - LFK Girls Bottoms"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "30",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoTargetCOGS",
+      "FIELD_NAME_DISPLAY": "Target COGS",
+      "FIELD_VALUE_KEY": "30"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "Normal Product",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoRigidInd",
+      "FIELD_NAME_DISPLAY": "Rigid Indicator",
+      "FIELD_VALUE_KEY": "N"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "Fashion",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoProgram",
+      "FIELD_NAME_DISPLAY": "Program",
+      "FIELD_VALUE_KEY": "lscoFashion"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "9abass7",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoPMName",
+      "FIELD_NAME_DISPLAY": "Product Manager Name",
+      "FIELD_VALUE_KEY": "9abass7"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "Not Applicable",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoNonDenimColor",
+      "FIELD_NAME_DISPLAY": "Non-Denim Color",
+      "FIELD_VALUE_KEY": "lscoNotApplicable"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "9abass7",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoMerchantName",
+      "FIELD_NAME_DISPLAY": "Merchant Name",
+      "FIELD_VALUE_KEY": "9abass7"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "Alternative 5 Pocket",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoCapsuleNew",
+      "FIELD_NAME_DISPLAY": "Capsule",
+      "FIELD_VALUE_KEY": "9713"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "Yes",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoDestroySampleInd",
+      "FIELD_NAME_DISPLAY": "Destroy Sample Ind",
+      "FIELD_VALUE_KEY": "Y"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "Regular Girls",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoConsumerGroupExt2",
+      "FIELD_NAME_DISPLAY": "Consumer Group Ext 2",
+      "FIELD_VALUE_KEY": "1092"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "A5492-0000 STRIPES BLACK",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "skuName",
+      "FIELD_NAME_DISPLAY": "Colorway Name",
+      "FIELD_VALUE_KEY": "A5492-0000 STRIPES BLACK"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "20",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoColorwayTargetVolume",
+      "FIELD_NAME_DISPLAY": "Target Volume [Colorway]",
+      "FIELD_VALUE_KEY": "20"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "20",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoTargetFOB",
+      "FIELD_NAME_DISPLAY": "Target FOB",
+      "FIELD_VALUE_KEY": "20"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "A5492-0000",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoColorwayCode",
+      "FIELD_NAME_DISPLAY": "Colorway Code",
+      "FIELD_VALUE_KEY": "A5492-0000"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "N",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoFastTrack",
+      "FIELD_NAME_DISPLAY": "Fast Track?",
+      "FIELD_VALUE_KEY": ""
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "BI STR",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoMerchFabricType",
+      "FIELD_NAME_DISPLAY": "Merch Fabric Type",
+      "FIELD_VALUE_KEY": "BIS"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "Minimal",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoDestruction",
+      "FIELD_NAME_DISPLAY": "Destruction",
+      "FIELD_VALUE_KEY": "lscoMinimal"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoCommSampleType",
+      "FIELD_NAME_DISPLAY": "Comm. Sample Type11",
+      "FIELD_VALUE_KEY": " "
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoTargetMSRP",
+      "FIELD_NAME_DISPLAY": "Target MSRP",
+      "FIELD_VALUE_KEY": ""
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "9abass7",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoFieldPDSName",
+      "FIELD_NAME_DISPLAY": "Field PDS Name",
+      "FIELD_VALUE_KEY": "9abass7"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoCoreorSeasonal",
+      "FIELD_NAME_DISPLAY": "Core or Seasonal?",
+      "FIELD_VALUE_KEY": ""
+    },
+    {
+      "OBJECT_ID": "C02758",
+      "FIELD_VALUE_DISPLAY": "C02758 STRIPES BLACK Stripe L8_ST142421_1",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "color",
+      "FIELD_NAME_DISPLAY": "Colorway (Look/Color)",
+      "FIELD_VALUE_KEY": "C02758 STRIPES BLACK Stripe L8_ST142421_1"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "FT in Progress",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoProductStatus",
+      "FIELD_NAME_DISPLAY": "Product Status",
+      "FIELD_VALUE_KEY": "Initiated"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "999 RESERVED",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoConstructionLine",
+      "FIELD_NAME_DISPLAY": "Construction Line",
+      "FIELD_VALUE_KEY": "999"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "Product",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoProductType",
+      "FIELD_NAME_DISPLAY": "Product Type",
+      "FIELD_VALUE_KEY": "N"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "Test IC STRIPES BLACK Stripe",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoProdMarketingName",
+      "FIELD_NAME_DISPLAY": "Product Marketing Name",
+      "FIELD_VALUE_KEY": "Test IC STRIPES BLACK Stripe"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "9abass7",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoGDName",
+      "FIELD_NAME_DISPLAY": "Garment Developr Name",
+      "FIELD_VALUE_KEY": "9abass7"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "Girls",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoConsumerGroupExt1",
+      "FIELD_NAME_DISPLAY": "Consumer Group Ext 1",
+      "FIELD_VALUE_KEY": "665"
+    },
+    {
+      "OBJECT_ID": "216874512",
+      "FIELD_VALUE_DISPLAY": "- Levi's ® Female Girls Red Tab Jeans Bottoms",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoProfitCtrAPD",
+      "FIELD_NAME_DISPLAY": "Profit Center [APD]",
+      "FIELD_VALUE_KEY": "- Levi's ® Female Girls Red Tab Jeans Bottoms"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "Total Kids",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoConsumerGroup",
+      "FIELD_NAME_DISPLAY": "Consumer Group",
+      "FIELD_VALUE_KEY": "1126"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "9abass7",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoPDSName",
+      "FIELD_NAME_DISPLAY": "PDS Name",
+      "FIELD_VALUE_KEY": "9abass7"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "N",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoPC9CertifiedWaterLessFinish",
+      "FIELD_NAME_DISPLAY": "PC9 Certified Water<Less Finish?",
+      "FIELD_VALUE_KEY": ""
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "9abass7",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoDesignerName",
+      "FIELD_NAME_DISPLAY": "Designer Name",
+      "FIELD_VALUE_KEY": "9abass7"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "Knit",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoMatTypeValue",
+      "FIELD_NAME_DISPLAY": "Material Type Value",
+      "FIELD_VALUE_KEY": "18"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoGraphicType",
+      "FIELD_NAME_DISPLAY": "Graphic Type",
+      "FIELD_VALUE_KEY": ""
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "Y",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoLocalProduction",
+      "FIELD_NAME_DISPLAY": "Local Production",
+      "FIELD_VALUE_KEY": "true"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "Chewed",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoHemType",
+      "FIELD_NAME_DISPLAY": "Hem Type",
+      "FIELD_VALUE_KEY": "lscoChewed"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": " ",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoImageErrata",
+      "FIELD_NAME_DISPLAY": "Image Errata",
+      "FIELD_VALUE_KEY": " "
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "Brazil",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoLocalDevelopmentFor",
+      "FIELD_NAME_DISPLAY": "Local Development For",
+      "FIELD_VALUE_KEY": "lscoBrazil"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "Red Tab",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoSpecialTabColor",
+      "FIELD_NAME_DISPLAY": "Special Tab Color",
+      "FIELD_VALUE_KEY": "9306"
+    },
+    {
+      "OBJECT_ID": "C02758",
+      "FIELD_VALUE_DISPLAY": "Blacks",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoColorFamily",
+      "FIELD_NAME_DISPLAY": "Color Family",
+      "FIELD_VALUE_KEY": "Blacks"
+    },
+    {
+      "OBJECT_ID": "C02758",
+      "FIELD_VALUE_DISPLAY": "STRIPES",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoArtwork",
+      "FIELD_NAME_DISPLAY": "LS&Co. Artwork",
+      "FIELD_VALUE_KEY": "STRIPES"
+    },
+    {
+      "OBJECT_ID": "C02758",
+      "FIELD_VALUE_DISPLAY": "L8_ST142421_1",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoArtworkCode",
+      "FIELD_NAME_DISPLAY": "LS&Co. Artwork Code",
+      "FIELD_VALUE_KEY": "L8_ST142421_1"
+    },
+    {
+      "OBJECT_ID": "C02758",
+      "FIELD_VALUE_DISPLAY": "C02758",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoColorCode",
+      "FIELD_NAME_DISPLAY": "Color Code",
+      "FIELD_VALUE_KEY": "C02758"
+    },
+    {
+      "OBJECT_ID": "A5492-0000",
+      "FIELD_VALUE_DISPLAY": "All Season Tech",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoPerformance",
+      "FIELD_NAME_DISPLAY": "Performance",
+      "FIELD_VALUE_KEY": "9208"
+    }
+  ],
+  "FLEXTYPE": "Product\\LSCO\\Levis\\Female\\Apparel\\Bottoms",
+  "ID": "A5492-0000",
+  "PRODUCTID": "A5492",
+  "TXNID": "5707268",
+  "EVENT": "CREATE"
+}

@@ -1,0 +1,203 @@
+{
+  "INTERFACE": "PRODUCT",
+  "TIMESTAMP": "06/2/2022 07:43 AM GMT",
+  "ATTRIB_LIST": [
+    {
+      "OBJECT_ID": "A5509",
+      "FIELD_VALUE_DISPLAY": "Denizen",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoBrand",
+      "FIELD_NAME_DISPLAY": "Brand",
+      "FIELD_VALUE_KEY": "489"
+    },
+    {
+      "OBJECT_ID": "A5509",
+      "FIELD_VALUE_DISPLAY": "Polos",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoClassPH",
+      "FIELD_NAME_DISPLAY": "Class (Product Hierarchy)",
+      "FIELD_VALUE_KEY": "1006"
+    },
+    {
+      "OBJECT_ID": "A5509",
+      "FIELD_VALUE_DISPLAY": "Boys",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoConsumerProdHier",
+      "FIELD_NAME_DISPLAY": "Consumer (Product Hierarchy)",
+      "FIELD_VALUE_KEY": "0003"
+    },
+    {
+      "OBJECT_ID": "A5509",
+      "FIELD_VALUE_DISPLAY": "Boys 4-20",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoConsumerGrp1",
+      "FIELD_NAME_DISPLAY": "Consumer Group 1",
+      "FIELD_VALUE_KEY": "8517"
+    },
+    {
+      "OBJECT_ID": "A5509",
+      "FIELD_VALUE_DISPLAY": "Regular",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoConsumerGrp2",
+      "FIELD_NAME_DISPLAY": "Consumer Group 2",
+      "FIELD_VALUE_KEY": "8551"
+    },
+    {
+      "OBJECT_ID": "A5509",
+      "FIELD_VALUE_DISPLAY": "Not Applicable",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoFitReference",
+      "FIELD_NAME_DISPLAY": "Fit Reference",
+      "FIELD_VALUE_KEY": "406"
+    },
+    {
+      "OBJECT_ID": "A5509",
+      "FIELD_VALUE_DISPLAY": "",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoFrontFlyOpening",
+      "FIELD_NAME_DISPLAY": "Front Fly Opening",
+      "FIELD_VALUE_KEY": ""
+    },
+    {
+      "OBJECT_ID": "A5509",
+      "FIELD_VALUE_DISPLAY": "Male",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoGender",
+      "FIELD_NAME_DISPLAY": "Gender",
+      "FIELD_VALUE_KEY": "663"
+    },
+    {
+      "OBJECT_ID": "A5509",
+      "FIELD_VALUE_DISPLAY": "",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoLegOpening",
+      "FIELD_NAME_DISPLAY": "Leg Opening",
+      "FIELD_VALUE_KEY": ""
+    },
+    {
+      "OBJECT_ID": "A5509",
+      "FIELD_VALUE_DISPLAY": "Boat Neck",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoNeckline",
+      "FIELD_NAME_DISPLAY": "Neckline",
+      "FIELD_VALUE_KEY": "359"
+    },
+    {
+      "OBJECT_ID": "A5509",
+      "FIELD_VALUE_DISPLAY": "Tops",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoProductCategory",
+      "FIELD_NAME_DISPLAY": "Product Category",
+      "FIELD_VALUE_KEY": "673"
+    },
+    {
+      "OBJECT_ID": "A5509",
+      "FIELD_VALUE_DISPLAY": "A5509",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoProductCode",
+      "FIELD_NAME_DISPLAY": "Product Code",
+      "FIELD_VALUE_KEY": "A5509"
+    },
+    {
+      "OBJECT_ID": "A5509",
+      "FIELD_VALUE_DISPLAY": "Denizen MT",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "productName",
+      "FIELD_NAME_DISPLAY": "Product Name",
+      "FIELD_VALUE_KEY": "Denizen MT"
+    },
+    {
+      "OBJECT_ID": "A5509",
+      "FIELD_VALUE_DISPLAY": "Non 5 Pocket Pleated",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoPrdRptChr",
+      "FIELD_NAME_DISPLAY": "Product Report Characteristics",
+      "FIELD_VALUE_KEY": "205"
+    },
+    {
+      "OBJECT_ID": "A5509",
+      "FIELD_VALUE_DISPLAY": "Jackets",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoProductSubCat1",
+      "FIELD_NAME_DISPLAY": "Product Sub Cat 1",
+      "FIELD_VALUE_KEY": "49"
+    },
+    {
+      "OBJECT_ID": "A5509",
+      "FIELD_VALUE_DISPLAY": "Jeanswear/Trucker",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoProductSubCat2",
+      "FIELD_NAME_DISPLAY": "Product Sub Cat 2",
+      "FIELD_VALUE_KEY": "1371"
+    },
+    {
+      "OBJECT_ID": "A5509",
+      "FIELD_VALUE_DISPLAY": "Long Sleeve",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoSleeveLen",
+      "FIELD_NAME_DISPLAY": "Sleeve Length",
+      "FIELD_VALUE_KEY": "349"
+    },
+    {
+      "OBJECT_ID": "A5509",
+      "FIELD_VALUE_DISPLAY": "Jackets",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoStyleType",
+      "FIELD_NAME_DISPLAY": "Style Type",
+      "FIELD_VALUE_KEY": "05"
+    },
+    {
+      "OBJECT_ID": "A5509",
+      "FIELD_VALUE_DISPLAY": "Polos",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoSubClassPH",
+      "FIELD_NAME_DISPLAY": "Sub Class (Product Hierarchy)",
+      "FIELD_VALUE_KEY": "2035"
+    },
+    {
+      "OBJECT_ID": "A5509",
+      "FIELD_VALUE_DISPLAY": "",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoWaistRise",
+      "FIELD_NAME_DISPLAY": "Waist/Rise",
+      "FIELD_VALUE_KEY": ""
+    },
+    {
+      "OBJECT_ID": "A5509",
+      "FIELD_VALUE_DISPLAY": "Anorak",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoCustomsClassification",
+      "FIELD_NAME_DISPLAY": "Customs Classification",
+      "FIELD_VALUE_KEY": "05"
+    },
+    {
+      "OBJECT_ID": "A5509",
+      "FIELD_VALUE_DISPLAY": "Denizen",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoConcept",
+      "FIELD_NAME_DISPLAY": "Concept",
+      "FIELD_VALUE_KEY": "1213"
+    },
+    {
+      "OBJECT_ID": "A5509",
+      "FIELD_VALUE_DISPLAY": "Denizen Business Unit",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoBusinessUnit",
+      "FIELD_NAME_DISPLAY": "Business Unit",
+      "FIELD_VALUE_KEY": "1214"
+    },
+    {
+      "OBJECT_ID": "A5509",
+      "FIELD_VALUE_DISPLAY": "No",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoIncudeMerchFabTypeInCWName",
+      "FIELD_NAME_DISPLAY": "Include Merch Fabric Type in CW Name",
+      "FIELD_VALUE_KEY": "no"
+    }
+  ],
+  "FLEXTYPE": "Product\\LSCO\\Denizen\\Male\\Apparel\\Tops",
+  "ID": "A5509",
+  "PRODUCTID": "A5509",
+  "TXNID": "5707667",
+  "EVENT": "CREATE"
+}

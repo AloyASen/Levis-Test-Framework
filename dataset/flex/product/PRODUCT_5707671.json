@@ -1,0 +1,203 @@
+{
+  "INTERFACE": "PRODUCT",
+  "TIMESTAMP": "06/2/2022 08:18 AM GMT",
+  "ATTRIB_LIST": [
+    {
+      "OBJECT_ID": "A5513",
+      "FIELD_VALUE_DISPLAY": "Dockers",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoBrand",
+      "FIELD_NAME_DISPLAY": "Brand",
+      "FIELD_VALUE_KEY": "482"
+    },
+    {
+      "OBJECT_ID": "A5513",
+      "FIELD_VALUE_DISPLAY": "Sweaters",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoClassPH",
+      "FIELD_NAME_DISPLAY": "Class (Product Hierarchy)",
+      "FIELD_VALUE_KEY": "1013"
+    },
+    {
+      "OBJECT_ID": "A5513",
+      "FIELD_VALUE_DISPLAY": "Mens",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoConsumerProdHier",
+      "FIELD_NAME_DISPLAY": "Consumer (Product Hierarchy)",
+      "FIELD_VALUE_KEY": "0001"
+    },
+    {
+      "OBJECT_ID": "A5513",
+      "FIELD_VALUE_DISPLAY": "Adult Mens",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoConsumerGrp1",
+      "FIELD_NAME_DISPLAY": "Consumer Group 1",
+      "FIELD_VALUE_KEY": "8501"
+    },
+    {
+      "OBJECT_ID": "A5513",
+      "FIELD_VALUE_DISPLAY": "Regular",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoConsumerGrp2",
+      "FIELD_NAME_DISPLAY": "Consumer Group 2",
+      "FIELD_VALUE_KEY": "8551"
+    },
+    {
+      "OBJECT_ID": "A5513",
+      "FIELD_VALUE_DISPLAY": "Standard",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoFitReference",
+      "FIELD_NAME_DISPLAY": "Fit Reference",
+      "FIELD_VALUE_KEY": "263"
+    },
+    {
+      "OBJECT_ID": "A5513",
+      "FIELD_VALUE_DISPLAY": "",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoFrontFlyOpening",
+      "FIELD_NAME_DISPLAY": "Front Fly Opening",
+      "FIELD_VALUE_KEY": ""
+    },
+    {
+      "OBJECT_ID": "A5513",
+      "FIELD_VALUE_DISPLAY": "Male",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoGender",
+      "FIELD_NAME_DISPLAY": "Gender",
+      "FIELD_VALUE_KEY": "663"
+    },
+    {
+      "OBJECT_ID": "A5513",
+      "FIELD_VALUE_DISPLAY": "",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoLegOpening",
+      "FIELD_NAME_DISPLAY": "Leg Opening",
+      "FIELD_VALUE_KEY": ""
+    },
+    {
+      "OBJECT_ID": "A5513",
+      "FIELD_VALUE_DISPLAY": "V-Neck",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoNeckline",
+      "FIELD_NAME_DISPLAY": "Neckline",
+      "FIELD_VALUE_KEY": "358"
+    },
+    {
+      "OBJECT_ID": "A5513",
+      "FIELD_VALUE_DISPLAY": "Tops",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoProductCategory",
+      "FIELD_NAME_DISPLAY": "Product Category",
+      "FIELD_VALUE_KEY": "673"
+    },
+    {
+      "OBJECT_ID": "A5513",
+      "FIELD_VALUE_DISPLAY": "A5513",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoProductCode",
+      "FIELD_NAME_DISPLAY": "Product Code",
+      "FIELD_VALUE_KEY": "A5513"
+    },
+    {
+      "OBJECT_ID": "A5513",
+      "FIELD_VALUE_DISPLAY": "Docker MT",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "productName",
+      "FIELD_NAME_DISPLAY": "Product Name",
+      "FIELD_VALUE_KEY": "Docker MT"
+    },
+    {
+      "OBJECT_ID": "A5513",
+      "FIELD_VALUE_DISPLAY": "Non 5 Pocket Pleated",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoPrdRptChr",
+      "FIELD_NAME_DISPLAY": "Product Report Characteristics",
+      "FIELD_VALUE_KEY": "205"
+    },
+    {
+      "OBJECT_ID": "A5513",
+      "FIELD_VALUE_DISPLAY": "Knits",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoProductSubCat1",
+      "FIELD_NAME_DISPLAY": "Product Sub Cat 1",
+      "FIELD_VALUE_KEY": "51"
+    },
+    {
+      "OBJECT_ID": "A5513",
+      "FIELD_VALUE_DISPLAY": "Tank/Sleeveless",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoProductSubCat2",
+      "FIELD_NAME_DISPLAY": "Product Sub Cat 2",
+      "FIELD_VALUE_KEY": "1211"
+    },
+    {
+      "OBJECT_ID": "A5513",
+      "FIELD_VALUE_DISPLAY": "Short Sleeve",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoSleeveLen",
+      "FIELD_NAME_DISPLAY": "Sleeve Length",
+      "FIELD_VALUE_KEY": "350"
+    },
+    {
+      "OBJECT_ID": "A5513",
+      "FIELD_VALUE_DISPLAY": "Tee Shirts",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoStyleType",
+      "FIELD_NAME_DISPLAY": "Style Type",
+      "FIELD_VALUE_KEY": "09"
+    },
+    {
+      "OBJECT_ID": "A5513",
+      "FIELD_VALUE_DISPLAY": "Sweaters",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoSubClassPH",
+      "FIELD_NAME_DISPLAY": "Sub Class (Product Hierarchy)",
+      "FIELD_VALUE_KEY": "2209"
+    },
+    {
+      "OBJECT_ID": "A5513",
+      "FIELD_VALUE_DISPLAY": "",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoWaistRise",
+      "FIELD_NAME_DISPLAY": "Waist/Rise",
+      "FIELD_VALUE_KEY": ""
+    },
+    {
+      "OBJECT_ID": "A5513",
+      "FIELD_VALUE_DISPLAY": "T - Shirt / White",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoCustomsClassification",
+      "FIELD_NAME_DISPLAY": "Customs Classification",
+      "FIELD_VALUE_KEY": "37"
+    },
+    {
+      "OBJECT_ID": "A5513",
+      "FIELD_VALUE_DISPLAY": "Dockers Made for Outlet",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoConcept",
+      "FIELD_NAME_DISPLAY": "Concept",
+      "FIELD_VALUE_KEY": "1481"
+    },
+    {
+      "OBJECT_ID": "A5513",
+      "FIELD_VALUE_DISPLAY": "Dockers Business Unit",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoBusinessUnit",
+      "FIELD_NAME_DISPLAY": "Business Unit",
+      "FIELD_VALUE_KEY": "378"
+    },
+    {
+      "OBJECT_ID": "A5513",
+      "FIELD_VALUE_DISPLAY": "Yes",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoIncudeMerchFabTypeInCWName",
+      "FIELD_NAME_DISPLAY": "Include Merch Fabric Type in CW Name",
+      "FIELD_VALUE_KEY": "yes"
+    }
+  ],
+  "FLEXTYPE": "Product\\LSCO\\Dockers\\Male\\Apparel\\Tops",
+  "ID": "A5513",
+  "PRODUCTID": "A5513",
+  "TXNID": "5707671",
+  "EVENT": "CREATE"
+}

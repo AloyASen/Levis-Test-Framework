@@ -1,0 +1,227 @@
+{
+  "INTERFACE": "PRODUCT",
+  "TIMESTAMP": "05/16/2022 12:01 PM GMT",
+  "ATTRIB_LIST": [
+    {
+      "OBJECT_ID": "A5492",
+      "FIELD_VALUE_DISPLAY": "Levi's",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoBrand",
+      "FIELD_NAME_DISPLAY": "Brand",
+      "FIELD_VALUE_KEY": "483"
+    },
+    {
+      "OBJECT_ID": "A5492",
+      "FIELD_VALUE_DISPLAY": "Alternative Lengths",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoClassPH",
+      "FIELD_NAME_DISPLAY": "Class (Product Hierarchy)",
+      "FIELD_VALUE_KEY": "1001"
+    },
+    {
+      "OBJECT_ID": "A5492",
+      "FIELD_VALUE_DISPLAY": "Girls",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoConsumerProdHier",
+      "FIELD_NAME_DISPLAY": "Consumer (Product Hierarchy)",
+      "FIELD_VALUE_KEY": "0004"
+    },
+    {
+      "OBJECT_ID": "A5492",
+      "FIELD_VALUE_DISPLAY": "Girls Infant",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoConsumerGrp1",
+      "FIELD_NAME_DISPLAY": "Consumer Group 1",
+      "FIELD_VALUE_KEY": "8531"
+    },
+    {
+      "OBJECT_ID": "A5492",
+      "FIELD_VALUE_DISPLAY": "Regular",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoConsumerGrp2",
+      "FIELD_NAME_DISPLAY": "Consumer Group 2",
+      "FIELD_VALUE_KEY": "8551"
+    },
+    {
+      "OBJECT_ID": "A5492",
+      "FIELD_VALUE_DISPLAY": "Boyfriend",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoFitReference",
+      "FIELD_NAME_DISPLAY": "Fit Reference",
+      "FIELD_VALUE_KEY": "1358"
+    },
+    {
+      "OBJECT_ID": "A5492",
+      "FIELD_VALUE_DISPLAY": "Button Fly",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoFrontFlyOpening",
+      "FIELD_NAME_DISPLAY": "Front Fly Opening",
+      "FIELD_VALUE_KEY": "500"
+    },
+    {
+      "OBJECT_ID": "A5492",
+      "FIELD_VALUE_DISPLAY": "Female",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoGender",
+      "FIELD_NAME_DISPLAY": "Gender",
+      "FIELD_VALUE_KEY": "664"
+    },
+    {
+      "OBJECT_ID": "A5492",
+      "FIELD_VALUE_DISPLAY": "Flare",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoLegOpening",
+      "FIELD_NAME_DISPLAY": "Leg Opening",
+      "FIELD_VALUE_KEY": "232"
+    },
+    {
+      "OBJECT_ID": "A5492",
+      "FIELD_VALUE_DISPLAY": "",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoNeckline",
+      "FIELD_NAME_DISPLAY": "Neckline",
+      "FIELD_VALUE_KEY": ""
+    },
+    {
+      "OBJECT_ID": "A5492",
+      "FIELD_VALUE_DISPLAY": "Bottoms",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoProductCategory",
+      "FIELD_NAME_DISPLAY": "Product Category",
+      "FIELD_VALUE_KEY": "674"
+    },
+    {
+      "OBJECT_ID": "A5492",
+      "FIELD_VALUE_DISPLAY": "A5492",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoProductCode",
+      "FIELD_NAME_DISPLAY": "Product Code",
+      "FIELD_VALUE_KEY": "A5492"
+    },
+    {
+      "OBJECT_ID": "A5492",
+      "FIELD_VALUE_DISPLAY": "Test IC",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "productName",
+      "FIELD_NAME_DISPLAY": "Product Name",
+      "FIELD_VALUE_KEY": "Test IC"
+    },
+    {
+      "OBJECT_ID": "A5492",
+      "FIELD_VALUE_DISPLAY": "5 Pocket",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoPrdRptChr",
+      "FIELD_NAME_DISPLAY": "Product Report Characteristics",
+      "FIELD_VALUE_KEY": "202"
+    },
+    {
+      "OBJECT_ID": "A5492",
+      "FIELD_VALUE_DISPLAY": "Alternative Lengths",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoProductSubCat1",
+      "FIELD_NAME_DISPLAY": "Product Sub Cat 1",
+      "FIELD_VALUE_KEY": "56"
+    },
+    {
+      "OBJECT_ID": "A5492",
+      "FIELD_VALUE_DISPLAY": "Not Applicable",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoProductSubCat2",
+      "FIELD_NAME_DISPLAY": "Product Sub Cat 2",
+      "FIELD_VALUE_KEY": "9000"
+    },
+    {
+      "OBJECT_ID": "A5492",
+      "FIELD_VALUE_DISPLAY": "",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoSleeveLen",
+      "FIELD_NAME_DISPLAY": "Sleeve Length",
+      "FIELD_VALUE_KEY": ""
+    },
+    {
+      "OBJECT_ID": "A5492",
+      "FIELD_VALUE_DISPLAY": "Jeans",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoStyleType",
+      "FIELD_NAME_DISPLAY": "Style Type",
+      "FIELD_VALUE_KEY": "02"
+    },
+    {
+      "OBJECT_ID": "A5492",
+      "FIELD_VALUE_DISPLAY": "Capris",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoSubClassPH",
+      "FIELD_NAME_DISPLAY": "Sub Class (Product Hierarchy)",
+      "FIELD_VALUE_KEY": "2004"
+    },
+    {
+      "OBJECT_ID": "A5492",
+      "FIELD_VALUE_DISPLAY": "High Waist/Rise",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoWaistRise",
+      "FIELD_NAME_DISPLAY": "Waist/Rise",
+      "FIELD_VALUE_KEY": "504"
+    },
+    {
+      "OBJECT_ID": "A5492",
+      "FIELD_VALUE_DISPLAY": "Capri",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoGlobalFitPlatformNew",
+      "FIELD_NAME_DISPLAY": "Global Fit Platform",
+      "FIELD_VALUE_KEY": "080"
+    },
+    {
+      "OBJECT_ID": "A5492",
+      "FIELD_VALUE_DISPLAY": "Jumper",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoCustomsClassification",
+      "FIELD_NAME_DISPLAY": "Customs Classification",
+      "FIELD_VALUE_KEY": "27"
+    },
+    {
+      "OBJECT_ID": "A5492",
+      "FIELD_VALUE_DISPLAY": "Levi's Red Tab",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoConcept",
+      "FIELD_NAME_DISPLAY": "Concept",
+      "FIELD_VALUE_KEY": "510"
+    },
+    {
+      "OBJECT_ID": "A5492",
+      "FIELD_VALUE_DISPLAY": "Levi's Business Unit",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoBusinessUnit",
+      "FIELD_NAME_DISPLAY": "Business Unit",
+      "FIELD_VALUE_KEY": "1131"
+    },
+    {
+      "OBJECT_ID": "A5492",
+      "FIELD_VALUE_DISPLAY": "Ankle Length",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoLongBottomLength",
+      "FIELD_NAME_DISPLAY": "Long Bottom Length",
+      "FIELD_VALUE_KEY": "9101"
+    },
+    {
+      "OBJECT_ID": "A5492",
+      "FIELD_VALUE_DISPLAY": "Arcuate",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoBackPocketTreatment",
+      "FIELD_NAME_DISPLAY": "Back Pocket Treatment",
+      "FIELD_VALUE_KEY": "Arcuate"
+    },
+    {
+      "OBJECT_ID": "A5492",
+      "FIELD_VALUE_DISPLAY": "No",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoIncudeMerchFabTypeInCWName",
+      "FIELD_NAME_DISPLAY": "Include Merch Fabric Type in CW Name",
+      "FIELD_VALUE_KEY": "no"
+    }
+  ],
+  "FLEXTYPE": "Product\\LSCO\\Levis\\Female\\Apparel\\Bottoms",
+  "ID": "A5492",
+  "PRODUCTID": "A5492",
+  "TXNID": "5707267",
+  "EVENT": "CREATE"
+}

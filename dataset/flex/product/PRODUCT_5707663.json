@@ -1,0 +1,203 @@
+{
+  "INTERFACE": "PRODUCT",
+  "TIMESTAMP": "06/2/2022 07:27 AM GMT",
+  "ATTRIB_LIST": [
+    {
+      "OBJECT_ID": "A5505",
+      "FIELD_VALUE_DISPLAY": "Levi's",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoBrand",
+      "FIELD_NAME_DISPLAY": "Brand",
+      "FIELD_VALUE_KEY": "483"
+    },
+    {
+      "OBJECT_ID": "A5505",
+      "FIELD_VALUE_DISPLAY": "Bodywear Tops",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoClassPH",
+      "FIELD_NAME_DISPLAY": "Class (Product Hierarchy)",
+      "FIELD_VALUE_KEY": "1041"
+    },
+    {
+      "OBJECT_ID": "A5505",
+      "FIELD_VALUE_DISPLAY": "Girls",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoConsumerProdHier",
+      "FIELD_NAME_DISPLAY": "Consumer (Product Hierarchy)",
+      "FIELD_VALUE_KEY": "0004"
+    },
+    {
+      "OBJECT_ID": "A5505",
+      "FIELD_VALUE_DISPLAY": "Girls Toddler",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoConsumerGrp1",
+      "FIELD_NAME_DISPLAY": "Consumer Group 1",
+      "FIELD_VALUE_KEY": "8534"
+    },
+    {
+      "OBJECT_ID": "A5505",
+      "FIELD_VALUE_DISPLAY": "Regular",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoConsumerGrp2",
+      "FIELD_NAME_DISPLAY": "Consumer Group 2",
+      "FIELD_VALUE_KEY": "8551"
+    },
+    {
+      "OBJECT_ID": "A5505",
+      "FIELD_VALUE_DISPLAY": "Boxy",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoFitReference",
+      "FIELD_NAME_DISPLAY": "Fit Reference",
+      "FIELD_VALUE_KEY": "1366"
+    },
+    {
+      "OBJECT_ID": "A5505",
+      "FIELD_VALUE_DISPLAY": "",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoFrontFlyOpening",
+      "FIELD_NAME_DISPLAY": "Front Fly Opening",
+      "FIELD_VALUE_KEY": ""
+    },
+    {
+      "OBJECT_ID": "A5505",
+      "FIELD_VALUE_DISPLAY": "Female",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoGender",
+      "FIELD_NAME_DISPLAY": "Gender",
+      "FIELD_VALUE_KEY": "664"
+    },
+    {
+      "OBJECT_ID": "A5505",
+      "FIELD_VALUE_DISPLAY": "",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoLegOpening",
+      "FIELD_NAME_DISPLAY": "Leg Opening",
+      "FIELD_VALUE_KEY": ""
+    },
+    {
+      "OBJECT_ID": "A5505",
+      "FIELD_VALUE_DISPLAY": "V-Neck",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoNeckline",
+      "FIELD_NAME_DISPLAY": "Neckline",
+      "FIELD_VALUE_KEY": "358"
+    },
+    {
+      "OBJECT_ID": "A5505",
+      "FIELD_VALUE_DISPLAY": "Tops",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoProductCategory",
+      "FIELD_NAME_DISPLAY": "Product Category",
+      "FIELD_VALUE_KEY": "673"
+    },
+    {
+      "OBJECT_ID": "A5505",
+      "FIELD_VALUE_DISPLAY": "A5505",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoProductCode",
+      "FIELD_NAME_DISPLAY": "Product Code",
+      "FIELD_VALUE_KEY": "A5505"
+    },
+    {
+      "OBJECT_ID": "A5505",
+      "FIELD_VALUE_DISPLAY": "test automate 1",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "productName",
+      "FIELD_NAME_DISPLAY": "Product Name",
+      "FIELD_VALUE_KEY": "test automate 1"
+    },
+    {
+      "OBJECT_ID": "A5505",
+      "FIELD_VALUE_DISPLAY": "Not Applicable (for Tops)",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoPrdRptChr",
+      "FIELD_NAME_DISPLAY": "Product Report Characteristics",
+      "FIELD_VALUE_KEY": "203"
+    },
+    {
+      "OBJECT_ID": "A5505",
+      "FIELD_VALUE_DISPLAY": "Knits",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoProductSubCat1",
+      "FIELD_NAME_DISPLAY": "Product Sub Cat 1",
+      "FIELD_VALUE_KEY": "51"
+    },
+    {
+      "OBJECT_ID": "A5505",
+      "FIELD_VALUE_DISPLAY": "LS Polos",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoProductSubCat2",
+      "FIELD_NAME_DISPLAY": "Product Sub Cat 2",
+      "FIELD_VALUE_KEY": "1387"
+    },
+    {
+      "OBJECT_ID": "A5505",
+      "FIELD_VALUE_DISPLAY": "Capped Sleeve",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoSleeveLen",
+      "FIELD_NAME_DISPLAY": "Sleeve Length",
+      "FIELD_VALUE_KEY": "351"
+    },
+    {
+      "OBJECT_ID": "A5505",
+      "FIELD_VALUE_DISPLAY": "Shirts",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoStyleType",
+      "FIELD_NAME_DISPLAY": "Style Type",
+      "FIELD_VALUE_KEY": "06"
+    },
+    {
+      "OBJECT_ID": "A5505",
+      "FIELD_VALUE_DISPLAY": "Bodysuits",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoSubClassPH",
+      "FIELD_NAME_DISPLAY": "Sub Class (Product Hierarchy)",
+      "FIELD_VALUE_KEY": "2248"
+    },
+    {
+      "OBJECT_ID": "A5505",
+      "FIELD_VALUE_DISPLAY": "",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoWaistRise",
+      "FIELD_NAME_DISPLAY": "Waist/Rise",
+      "FIELD_VALUE_KEY": ""
+    },
+    {
+      "OBJECT_ID": "A5505",
+      "FIELD_VALUE_DISPLAY": "Camisole",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoCustomsClassification",
+      "FIELD_NAME_DISPLAY": "Customs Classification",
+      "FIELD_VALUE_KEY": "19"
+    },
+    {
+      "OBJECT_ID": "A5505",
+      "FIELD_VALUE_DISPLAY": "Levi's Collaboration",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoConcept",
+      "FIELD_NAME_DISPLAY": "Concept",
+      "FIELD_VALUE_KEY": "1295"
+    },
+    {
+      "OBJECT_ID": "A5505",
+      "FIELD_VALUE_DISPLAY": "Levi's Business Unit",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoBusinessUnit",
+      "FIELD_NAME_DISPLAY": "Business Unit",
+      "FIELD_VALUE_KEY": "1131"
+    },
+    {
+      "OBJECT_ID": "A5505",
+      "FIELD_VALUE_DISPLAY": "No",
+      "CHANGE_IND": "Y",
+      "FIELD_NAME_KEY": "lscoIncudeMerchFabTypeInCWName",
+      "FIELD_NAME_DISPLAY": "Include Merch Fabric Type in CW Name",
+      "FIELD_VALUE_KEY": "no"
+    }
+  ],
+  "FLEXTYPE": "Product\\LSCO\\Levis\\Female\\Apparel\\Tops",
+  "ID": "A5505",
+  "PRODUCTID": "A5505",
+  "TXNID": "5707663",
+  "EVENT": "CREATE"
+}
